@@ -1,4 +1,4 @@
-package course1.entities;
+package entities;
 
 public class Product {
 
@@ -53,5 +53,3 @@ public class Product {
                 + String.format("%.2f", totalValueInStock());
     }
 }
-
-sysout
